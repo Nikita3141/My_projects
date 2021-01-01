@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nikita/CLionProjects/untitled4/main.cpp
+iostream
+-
+iostream
+-
+Windows.h
+-
+Winuser.h
+-
+winbase.h
+-
+tchar.h
+-
+sensevts.h
+-
+WtsApi32.h
+-
+SensApi.h
+-
+Sens.h
+-
+EventSys.h
+-
+NTSecAPI.h
+-
+CreatingProcess.h
+/home/nikita/CLionProjects/untitled4/CreatingProcess.h
+
